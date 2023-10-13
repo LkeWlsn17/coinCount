@@ -1,2 +1,4 @@
 errors = 0
 amntbags = 0
+totalbagvalue = 3816.2
+volunteers=
