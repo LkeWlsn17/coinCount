@@ -1,4 +1,6 @@
-errors = 0
+errors = 14.0
 amntbags = 0
-totalbagvalue = 3816.2
-volunteers=
+totalvalue = 310.0
+totalbagvalue = 310.0
+volunteers=['', 'Luke']
+volunteerstats={'Luke': 0}
